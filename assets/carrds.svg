@@ -1,0 +1,18 @@
+<svg width="20" height="141" viewBox="0 0 20 141" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="10" cy="42" r="3" fill="#3DBAF1"/>
+<circle cx="10" cy="51" r="3" fill="#3DBAF1"/>
+<path d="M10 3C11.6569 3 13 1.65685 13 0H7C7 1.65685 8.34315 3 10 3Z" fill="#3DBAF1"/>
+<circle cx="10" cy="9" r="3" fill="#3DBAF1"/>
+<circle cx="10" cy="60" r="3" fill="#3DBAF1"/>
+<circle cx="10" cy="69" r="3" fill="#3DBAF1"/>
+<circle cx="10" cy="78" r="3" fill="#3DBAF1"/>
+<circle cx="10" cy="87" r="3" fill="#3DBAF1"/>
+<circle cx="10" cy="96" r="3" fill="#3DBAF1"/>
+<circle cx="10" cy="105" r="3" fill="#3DBAF1"/>
+<circle cx="10" cy="114" r="3" fill="#3DBAF1"/>
+<circle cx="10" cy="123" r="3" fill="#3DBAF1"/>
+<circle cx="10" cy="132" r="3" fill="#3DBAF1"/>
+<path d="M10 138C8.34315 138 7 139.343 7 141H13C13 139.343 11.6569 138 10 138Z" fill="#3DBAF1"/>
+<circle cx="10" cy="25" r="7" fill="#3DBAF1"/>
+<circle cx="10" cy="25" r="9.25" stroke="#092D6F" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20504683042",
+    "firebase_url": "https://airportapp-81e2c.firebaseio.com",
+    "project_id": "airportapp-81e2c",
+    "storage_bucket": "airportapp-81e2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20504683042:android:b76f3b23e119816854a07b",
+        "android_client_info": {
+          "package_name": "com.example.airport_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20504683042-1rqd2b0hv58j5qinkla2h17scnucefha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0tRWGNpnGg5XyOJhzF_kpPnQ5Zqsz_-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20504683042-1rqd2b0hv58j5qinkla2h17scnucefha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
